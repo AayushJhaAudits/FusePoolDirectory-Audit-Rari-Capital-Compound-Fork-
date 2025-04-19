@@ -58,10 +58,9 @@ Foundry-based unit and fuzz tests covering:
 ⚠️ The original contract was written in **Solidity 0.6.12**, which does not support custom errors.  
 If the protocol is upgraded to **Solidity ^0.8.0**, we recommend using **custom errors** instead of `require()` to save gas.
 
-✍️ Author
-Aayush
-🔗 aayushjhaaudits.github.io
-📧 aayushjhaaudits@gmail.com
 
-Security First. Gas Second. Clarity Always.
+[![Twitter](https://img.shields.io/badge/Twitter-@aayushjhaaudits-1DA1F2)](https://twitter.com/aayushjhaaudits)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aayushjhaaudits.github.io-4285F4)](https://aayushjhaaudits.github.io)
+[![Email](https://img.shields.io/badge/Email-aayushjhaaudits%40gmail.com-D14836)](mailto:aayushjhaaudits@gmail.com)
 
+**Security First. Gas Second. Clarity Always.**
